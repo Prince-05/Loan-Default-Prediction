@@ -163,24 +163,24 @@ LEAKAGE: out_prncp_inv
 ## 📈 Visualizations
 
 ### 🧩 1. Loan status Distribution
-![distribution](images/Screenshot 2025-10-30 at 2.02.41 PM.png)
+![distribution](images/dist.png)
 
 ---
 
 ### 🔻 2. MLP confusion matrix
-![matrix](images/Screenshot 2025-10-30 at 2.03.31 PM.png)
+![matrix](images/matrix.png)
 > *Shows confusion matrix
 
 ---
 
 ### 🌟 3. Feature Importance (Clean Model)
-![Feature Importance](images/Screenshot 2025-10-30 at 2.03.50 PM.png)
+![Feature Importance](images/importance.png)
 > *Feature importance extracted Permutation Importance.*
 
 ---
 
 ### 💡 4. Comparision
-![Performance check](images/Screenshot 2025-10-30 at 2.04.14 PM.png)
+![Performance check](images/compare.png)
 
 
 ---
